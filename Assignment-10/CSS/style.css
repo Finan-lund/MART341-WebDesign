@@ -1,0 +1,41 @@
+body {
+  background-color: #4D5061
+font-family: sans-serif
+text-align: center;
+}
+
+div{
+  border: 3px solid: #424242
+  display: flow-root;
+}
+
+img {
+  border-radius:50%;
+  border: 12px solid #fef307
+}
+
+.inspiration {
+  background-color: #af96de;
+  height: 500px;
+  Width: 500px;
+  display: inline-block;
+}
+
+#title{
+  font-size: 35px;
+  background-color: #96de9d;
+  color: #debd96;
+  margin: auto;
+  padding: 10px;
+}
+
+.dot {
+  height: 75px;
+  width: 75px;
+  border-radius: 25%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #fef303
+}
